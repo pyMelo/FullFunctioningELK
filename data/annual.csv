@@ -1,0 +1,664 @@
+year,industry_code_ANZSIC,industry_name_ANZSIC,rme_size_grp,variable,value,unit
+2011,A,"Agriculture, Forestry and Fishing",a_0,Activity unit,46134,COUNT
+2011,A,"Agriculture, Forestry and Fishing",a_0,Rolling mean employees,0,COUNT
+2011,A,"Agriculture, Forestry and Fishing",a_0,Salaries and wages paid,279,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",a_0,"Sales, government funding, grants and subsidies",8187,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",a_0,Total income,8866,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",a_0,Total expenditure,7618,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",a_0,Operating profit before tax,770,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",a_0,Total assets,55700,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",a_0,Fixed tangible assets,32155,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Activity unit,21777,COUNT
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Rolling mean employees,38136,COUNT
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Salaries and wages paid,1435,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,"Sales, government funding, grants and subsidies",13359,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Total income,13771,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Total expenditure,12316,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Operating profit before tax,1247,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Total assets,52666,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",b_1-5,Fixed tangible assets,31235,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Activity unit,1965,COUNT
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Rolling mean employees,13848,COUNT
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Salaries and wages paid,467,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,"Sales, government funding, grants and subsidies",3060,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Total income,3114,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Total expenditure,2895,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Operating profit before tax,223,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Total assets,9323,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",c_6-9,Fixed tangible assets,5482,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Activity unit,1140,COUNT
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Rolling mean employees,14850,COUNT
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Salaries and wages paid,477,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,"Sales, government funding, grants and subsidies",2396,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Total income,2438,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Total expenditure,2344,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Operating profit before tax,126,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Total assets,6524,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",d_10-19,Fixed tangible assets,3649,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Activity unit,480,COUNT
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Rolling mean employees,13983,COUNT
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Salaries and wages paid,410,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,"Sales, government funding, grants and subsidies",1806,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Total income,1885,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Total expenditure,1773,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Operating profit before tax,80,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Total assets,3984,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",e_20-49,Fixed tangible assets,1676,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Activity unit,111,COUNT
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Rolling mean employees,7419,COUNT
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Salaries and wages paid,200,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,"Sales, government funding, grants and subsidies",1075,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Total income,1170,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Total expenditure,1056,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Operating profit before tax,39,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Total assets,2067,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",f_50-99,Fixed tangible assets,930,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Activity unit,27,COUNT
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Rolling mean employees,3522,COUNT
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Salaries and wages paid,86,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,"Sales, government funding, grants and subsidies",341,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Total income,364,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Total expenditure,333,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Operating profit before tax,37,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Total assets,807,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",g_100-199,Fixed tangible assets,C,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Activity unit,15,COUNT
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Rolling mean employees,6120,COUNT
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Salaries and wages paid,173,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",h_200+,"Sales, government funding, grants and subsidies",920,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Total income,1034,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Total expenditure,850,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Operating profit before tax,93,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Total assets,2555,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",h_200+,Fixed tangible assets,C,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Activity unit,71652,COUNT
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Rolling mean employees,97878,COUNT
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Salaries and wages paid,3527,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,"Sales, government funding, grants and subsidies",31145,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Total income,32642,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Total expenditure,29185,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Operating profit before tax,2616,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Total assets,133625,DOLLARS(millions)
+2011,A,"Agriculture, Forestry and Fishing",i_Industry_Total,Fixed tangible assets,76626,DOLLARS(millions)
+2011,B,Mining,a_0,Activity unit,333,COUNT
+2011,B,Mining,a_0,Rolling mean employees,0,COUNT
+2011,B,Mining,a_0,Salaries and wages paid,98,DOLLARS(millions)
+2011,B,Mining,a_0,"Sales, government funding, grants and subsidies",2111,DOLLARS(millions)
+2011,B,Mining,a_0,Total income,2271,DOLLARS(millions)
+2011,B,Mining,a_0,Total expenditure,1673,DOLLARS(millions)
+2011,B,Mining,a_0,Operating profit before tax,636,DOLLARS(millions)
+2011,B,Mining,a_0,Total assets,11988,DOLLARS(millions)
+2011,B,Mining,a_0,Fixed tangible assets,3579,DOLLARS(millions)
+2011,B,Mining,b_1-5,Activity unit,168,COUNT
+2011,B,Mining,b_1-5,Rolling mean employees,360,COUNT
+2011,B,Mining,b_1-5,Salaries and wages paid,50,DOLLARS(millions)
+2011,B,Mining,b_1-5,"Sales, government funding, grants and subsidies",443,DOLLARS(millions)
+2011,B,Mining,b_1-5,Total income,462,DOLLARS(millions)
+2011,B,Mining,b_1-5,Total expenditure,411,DOLLARS(millions)
+2011,B,Mining,b_1-5,Operating profit before tax,89,DOLLARS(millions)
+2011,B,Mining,b_1-5,Total assets,1213,DOLLARS(millions)
+2011,B,Mining,b_1-5,Fixed tangible assets,771,DOLLARS(millions)
+2011,B,Mining,c_6-9,Activity unit,21,COUNT
+2011,B,Mining,c_6-9,Rolling mean employees,174,COUNT
+2011,B,Mining,c_6-9,Salaries and wages paid,12,DOLLARS(millions)
+2011,B,Mining,c_6-9,"Sales, government funding, grants and subsidies",C,DOLLARS(millions)
+2011,B,Mining,c_6-9,Total income,65,DOLLARS(millions)
+2011,B,Mining,c_6-9,Total expenditure,68,DOLLARS(millions)
+2011,B,Mining,c_6-9,Operating profit before tax,0,DOLLARS(millions)
+2011,B,Mining,c_6-9,Total assets,169,DOLLARS(millions)
+2011,B,Mining,c_6-9,Fixed tangible assets,36,DOLLARS(millions)
+2011,B,Mining,d_10-19,Activity unit,36,COUNT
+2011,B,Mining,d_10-19,Rolling mean employees,489,COUNT
+2011,B,Mining,d_10-19,Salaries and wages paid,31,DOLLARS(millions)
+2011,B,Mining,d_10-19,"Sales, government funding, grants and subsidies",261,DOLLARS(millions)
+2011,B,Mining,d_10-19,Total income,265,DOLLARS(millions)
+2011,B,Mining,d_10-19,Total expenditure,239,DOLLARS(millions)
+2011,B,Mining,d_10-19,Operating profit before tax,45,DOLLARS(millions)
+2011,B,Mining,d_10-19,Total assets,375,DOLLARS(millions)
+2011,B,Mining,d_10-19,Fixed tangible assets,162,DOLLARS(millions)
+2011,B,Mining,e_20-49,Activity unit,21,COUNT
+2011,B,Mining,e_20-49,Rolling mean employees,714,COUNT
+2011,B,Mining,e_20-49,Salaries and wages paid,59,DOLLARS(millions)
+2011,B,Mining,e_20-49,"Sales, government funding, grants and subsidies",759,DOLLARS(millions)
+2011,B,Mining,e_20-49,Total income,872,DOLLARS(millions)
+2011,B,Mining,e_20-49,Total expenditure,490,DOLLARS(millions)
+2011,B,Mining,e_20-49,Operating profit before tax,C,DOLLARS(millions)
+2011,B,Mining,e_20-49,Total assets,C,DOLLARS(millions)
+2011,B,Mining,e_20-49,Fixed tangible assets,C,DOLLARS(millions)
+2011,B,Mining,f_50-99,Activity unit,12,COUNT
+2011,B,Mining,f_50-99,Rolling mean employees,663,COUNT
+2011,B,Mining,f_50-99,Salaries and wages paid,60,DOLLARS(millions)
+2011,B,Mining,f_50-99,"Sales, government funding, grants and subsidies",1188,DOLLARS(millions)
+2011,B,Mining,f_50-99,Total income,1346,DOLLARS(millions)
+2011,B,Mining,f_50-99,Total expenditure,811,DOLLARS(millions)
+2011,B,Mining,f_50-99,Operating profit before tax,C,DOLLARS(millions)
+2011,B,Mining,f_50-99,Total assets,2644,DOLLARS(millions)
+2011,B,Mining,f_50-99,Fixed tangible assets,C,DOLLARS(millions)
+2011,B,Mining,g_100-199,Activity unit,6,COUNT
+2011,B,Mining,g_100-199,Rolling mean employees,651,COUNT
+2011,B,Mining,g_100-199,Salaries and wages paid,48,DOLLARS(millions)
+2011,B,Mining,g_100-199,"Sales, government funding, grants and subsidies",C,DOLLARS(millions)
+2011,B,Mining,g_100-199,Total income,272,DOLLARS(millions)
+2011,B,Mining,g_100-199,Total expenditure,376,DOLLARS(millions)
+2011,B,Mining,g_100-199,Operating profit before tax,C,DOLLARS(millions)
+2011,B,Mining,g_100-199,Total assets,C,DOLLARS(millions)
+2011,B,Mining,g_100-199,Fixed tangible assets,C,DOLLARS(millions)
+2011,B,Mining,h_200+,Activity unit,9,COUNT
+2011,B,Mining,h_200+,Rolling mean employees,2850,COUNT
+2011,B,Mining,h_200+,Salaries and wages paid,261,DOLLARS(millions)
+2011,B,Mining,h_200+,"Sales, government funding, grants and subsidies",1858,DOLLARS(millions)
+2011,B,Mining,h_200+,Total income,1933,DOLLARS(millions)
+2011,B,Mining,h_200+,Total expenditure,1673,DOLLARS(millions)
+2011,B,Mining,h_200+,Operating profit before tax,286,DOLLARS(millions)
+2011,B,Mining,h_200+,Total assets,2099,DOLLARS(millions)
+2011,B,Mining,h_200+,Fixed tangible assets,1050,DOLLARS(millions)
+2011,B,Mining,i_Industry_Total,Activity unit,606,COUNT
+2011,B,Mining,i_Industry_Total,Rolling mean employees,5907,COUNT
+2011,B,Mining,i_Industry_Total,Salaries and wages paid,621,DOLLARS(millions)
+2011,B,Mining,i_Industry_Total,"Sales, government funding, grants and subsidies",6944,DOLLARS(millions)
+2011,B,Mining,i_Industry_Total,Total income,7486,DOLLARS(millions)
+2011,B,Mining,i_Industry_Total,Total expenditure,5742,DOLLARS(millions)
+2011,B,Mining,i_Industry_Total,Operating profit before tax,1895,DOLLARS(millions)
+2011,B,Mining,i_Industry_Total,Total assets,26953,DOLLARS(millions)
+2011,B,Mining,i_Industry_Total,Fixed tangible assets,8859,DOLLARS(millions)
+2011,C,Manufacturing,a_0,Activity unit,8382,COUNT
+2011,C,Manufacturing,a_0,Rolling mean employees,0,COUNT
+2011,C,Manufacturing,a_0,Salaries and wages paid,154,DOLLARS(millions)
+2011,C,Manufacturing,a_0,"Sales, government funding, grants and subsidies",1993,DOLLARS(millions)
+2011,C,Manufacturing,a_0,Total income,2004,DOLLARS(millions)
+2011,C,Manufacturing,a_0,Total expenditure,1796,DOLLARS(millions)
+2011,C,Manufacturing,a_0,Operating profit before tax,204,DOLLARS(millions)
+2011,C,Manufacturing,a_0,Total assets,2173,DOLLARS(millions)
+2011,C,Manufacturing,a_0,Fixed tangible assets,645,DOLLARS(millions)
+2011,C,Manufacturing,b_1-5,Activity unit,6942,COUNT
+2011,C,Manufacturing,b_1-5,Rolling mean employees,15327,COUNT
+2011,C,Manufacturing,b_1-5,Salaries and wages paid,627,DOLLARS(millions)
+2011,C,Manufacturing,b_1-5,"Sales, government funding, grants and subsidies",3669,DOLLARS(millions)
+2011,C,Manufacturing,b_1-5,Total income,3683,DOLLARS(millions)
+2011,C,Manufacturing,b_1-5,Total expenditure,3458,DOLLARS(millions)
+2011,C,Manufacturing,b_1-5,Operating profit before tax,241,DOLLARS(millions)
+2011,C,Manufacturing,b_1-5,Total assets,2675,DOLLARS(millions)
+2011,C,Manufacturing,b_1-5,Fixed tangible assets,612,DOLLARS(millions)
+2011,C,Manufacturing,c_6-9,Activity unit,1872,COUNT
+2011,C,Manufacturing,c_6-9,Rolling mean employees,13680,COUNT
+2011,C,Manufacturing,c_6-9,Salaries and wages paid,561,DOLLARS(millions)
+2011,C,Manufacturing,c_6-9,"Sales, government funding, grants and subsidies",2168,DOLLARS(millions)
+2011,C,Manufacturing,c_6-9,Total income,2184,DOLLARS(millions)
+2011,C,Manufacturing,c_6-9,Total expenditure,2073,DOLLARS(millions)
+2011,C,Manufacturing,c_6-9,Operating profit before tax,128,DOLLARS(millions)
+2011,C,Manufacturing,c_6-9,Total assets,1392,DOLLARS(millions)
+2011,C,Manufacturing,c_6-9,Fixed tangible assets,375,DOLLARS(millions)
+2011,C,Manufacturing,d_10-19,Activity unit,1884,COUNT
+2011,C,Manufacturing,d_10-19,Rolling mean employees,25053,COUNT
+2011,C,Manufacturing,d_10-19,Salaries and wages paid,1118,DOLLARS(millions)
+2011,C,Manufacturing,d_10-19,"Sales, government funding, grants and subsidies",4407,DOLLARS(millions)
+2011,C,Manufacturing,d_10-19,Total income,4435,DOLLARS(millions)
+2011,C,Manufacturing,d_10-19,Total expenditure,4356,DOLLARS(millions)
+2011,C,Manufacturing,d_10-19,Operating profit before tax,98,DOLLARS(millions)
+2011,C,Manufacturing,d_10-19,Total assets,2875,DOLLARS(millions)
+2011,C,Manufacturing,d_10-19,Fixed tangible assets,684,DOLLARS(millions)
+2011,C,Manufacturing,e_20-49,Activity unit,1149,COUNT
+2011,C,Manufacturing,e_20-49,Rolling mean employees,34092,COUNT
+2011,C,Manufacturing,e_20-49,Salaries and wages paid,1658,DOLLARS(millions)
+2011,C,Manufacturing,e_20-49,"Sales, government funding, grants and subsidies",7997,DOLLARS(millions)
+2011,C,Manufacturing,e_20-49,Total income,8050,DOLLARS(millions)
+2011,C,Manufacturing,e_20-49,Total expenditure,7631,DOLLARS(millions)
+2011,C,Manufacturing,e_20-49,Operating profit before tax,508,DOLLARS(millions)
+2011,C,Manufacturing,e_20-49,Total assets,5947,DOLLARS(millions)
+2011,C,Manufacturing,e_20-49,Fixed tangible assets,1922,DOLLARS(millions)
+2011,C,Manufacturing,f_50-99,Activity unit,372,COUNT
+2011,C,Manufacturing,f_50-99,Rolling mean employees,25515,COUNT
+2011,C,Manufacturing,f_50-99,Salaries and wages paid,1335,DOLLARS(millions)
+2011,C,Manufacturing,f_50-99,"Sales, government funding, grants and subsidies",10615,DOLLARS(millions)
+2011,C,Manufacturing,f_50-99,Total income,10746,DOLLARS(millions)
+2011,C,Manufacturing,f_50-99,Total expenditure,10291,DOLLARS(millions)
+2011,C,Manufacturing,f_50-99,Operating profit before tax,510,DOLLARS(millions)
+2011,C,Manufacturing,f_50-99,Total assets,6520,DOLLARS(millions)
+2011,C,Manufacturing,f_50-99,Fixed tangible assets,2190,DOLLARS(millions)
+2011,C,Manufacturing,g_100-199,Activity unit,171,COUNT
+2011,C,Manufacturing,g_100-199,Rolling mean employees,24069,COUNT
+2011,C,Manufacturing,g_100-199,Salaries and wages paid,1459,DOLLARS(millions)
+2011,C,Manufacturing,g_100-199,"Sales, government funding, grants and subsidies",10969,DOLLARS(millions)
+2011,C,Manufacturing,g_100-199,Total income,11192,DOLLARS(millions)
+2011,C,Manufacturing,g_100-199,Total expenditure,10660,DOLLARS(millions)
+2011,C,Manufacturing,g_100-199,Operating profit before tax,679,DOLLARS(millions)
+2011,C,Manufacturing,g_100-199,Total assets,9202,DOLLARS(millions)
+2011,C,Manufacturing,g_100-199,Fixed tangible assets,2312,DOLLARS(millions)
+2011,C,Manufacturing,h_200+,Activity unit,141,COUNT
+2011,C,Manufacturing,h_200+,Rolling mean employees,83955,COUNT
+2011,C,Manufacturing,h_200+,Salaries and wages paid,5284,DOLLARS(millions)
+2011,C,Manufacturing,h_200+,"Sales, government funding, grants and subsidies",53126,DOLLARS(millions)
+2011,C,Manufacturing,h_200+,Total income,53879,DOLLARS(millions)
+2011,C,Manufacturing,h_200+,Total expenditure,53118,DOLLARS(millions)
+2011,C,Manufacturing,h_200+,Operating profit before tax,1508,DOLLARS(millions)
+2011,C,Manufacturing,h_200+,Total assets,40714,DOLLARS(millions)
+2011,C,Manufacturing,h_200+,Fixed tangible assets,13877,DOLLARS(millions)
+2011,C,Manufacturing,i_Industry_Total,Activity unit,20916,COUNT
+2011,C,Manufacturing,i_Industry_Total,Rolling mean employees,221694,COUNT
+2011,C,Manufacturing,i_Industry_Total,Salaries and wages paid,12196,DOLLARS(millions)
+2011,C,Manufacturing,i_Industry_Total,"Sales, government funding, grants and subsidies",94944,DOLLARS(millions)
+2011,C,Manufacturing,i_Industry_Total,Total income,96174,DOLLARS(millions)
+2011,C,Manufacturing,i_Industry_Total,Total expenditure,93383,DOLLARS(millions)
+2011,C,Manufacturing,i_Industry_Total,Operating profit before tax,3875,DOLLARS(millions)
+2011,C,Manufacturing,i_Industry_Total,Total assets,71498,DOLLARS(millions)
+2011,C,Manufacturing,i_Industry_Total,Fixed tangible assets,22617,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Activity unit,540,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Rolling mean employees,0,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Salaries and wages paid,23,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,"Sales, government funding, grants and subsidies",2377,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Total income,2447,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Total expenditure,2133,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Operating profit before tax,361,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Total assets,8615,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",a_0,Fixed tangible assets,6118,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Activity unit,306,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Rolling mean employees,636,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Salaries and wages paid,28,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,"Sales, government funding, grants and subsidies",156,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Total income,159,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Total expenditure,142,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Operating profit before tax,19,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Total assets,435,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",b_1-5,Fixed tangible assets,177,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Activity unit,66,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Rolling mean employees,492,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Salaries and wages paid,24,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,"Sales, government funding, grants and subsidies",126,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Total income,126,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Total expenditure,117,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Operating profit before tax,20,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Total assets,111,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",c_6-9,Fixed tangible assets,69,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Activity unit,42,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Rolling mean employees,549,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Salaries and wages paid,21,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,"Sales, government funding, grants and subsidies",138,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Total income,142,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Total expenditure,129,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Operating profit before tax,18,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Total assets,389,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",d_10-19,Fixed tangible assets,304,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Activity unit,33,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Rolling mean employees,1029,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Salaries and wages paid,54,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,"Sales, government funding, grants and subsidies",443,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Total income,453,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Total expenditure,389,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Operating profit before tax,64,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Total assets,764,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",e_20-49,Fixed tangible assets,594,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Activity unit,15,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Rolling mean employees,1185,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Salaries and wages paid,53,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,"Sales, government funding, grants and subsidies",864,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Total income,869,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Total expenditure,789,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Operating profit before tax,83,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Total assets,1331,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",f_50-99,Fixed tangible assets,989,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Activity unit,9,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Rolling mean employees,1587,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Salaries and wages paid,83,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,"Sales, government funding, grants and subsidies",714,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Total income,729,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Total expenditure,594,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Operating profit before tax,156,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Total assets,3112,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",g_100-199,Fixed tangible assets,2736,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Activity unit,15,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Rolling mean employees,8898,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Salaries and wages paid,648,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,"Sales, government funding, grants and subsidies",10500,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Total income,11393,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Total expenditure,9926,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Operating profit before tax,1417,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Total assets,45146,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",h_200+,Fixed tangible assets,35855,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Activity unit,1026,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Rolling mean employees,14379,COUNT
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Salaries and wages paid,934,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,"Sales, government funding, grants and subsidies",15318,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Total income,16319,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Total expenditure,14219,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Operating profit before tax,2137,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Total assets,59902,DOLLARS(millions)
+2011,D,"Electricity, Gas, Water and Waste Services",i_Industry_Total,Fixed tangible assets,46841,DOLLARS(millions)
+2011,E,Construction,a_0,Activity unit,29274,COUNT
+2011,E,Construction,a_0,Rolling mean employees,0,COUNT
+2011,E,Construction,a_0,Salaries and wages paid,679,DOLLARS(millions)
+2011,E,Construction,a_0,"Sales, government funding, grants and subsidies",5237,DOLLARS(millions)
+2011,E,Construction,a_0,Total income,5281,DOLLARS(millions)
+2011,E,Construction,a_0,Total expenditure,4760,DOLLARS(millions)
+2011,E,Construction,a_0,Operating profit before tax,425,DOLLARS(millions)
+2011,E,Construction,a_0,Total assets,6117,DOLLARS(millions)
+2011,E,Construction,a_0,Fixed tangible assets,1787,DOLLARS(millions)
+2011,E,Construction,b_1-5,Activity unit,16485,COUNT
+2011,E,Construction,b_1-5,Rolling mean employees,29550,COUNT
+2011,E,Construction,b_1-5,Salaries and wages paid,1430,DOLLARS(millions)
+2011,E,Construction,b_1-5,"Sales, government funding, grants and subsidies",6411,DOLLARS(millions)
+2011,E,Construction,b_1-5,Total income,6442,DOLLARS(millions)
+2011,E,Construction,b_1-5,Total expenditure,5957,DOLLARS(millions)
+2011,E,Construction,b_1-5,Operating profit before tax,459,DOLLARS(millions)
+2011,E,Construction,b_1-5,Total assets,3426,DOLLARS(millions)
+2011,E,Construction,b_1-5,Fixed tangible assets,1015,DOLLARS(millions)
+2011,E,Construction,c_6-9,Activity unit,2196,COUNT
+2011,E,Construction,c_6-9,Rolling mean employees,15774,COUNT
+2011,E,Construction,c_6-9,Salaries and wages paid,801,DOLLARS(millions)
+2011,E,Construction,c_6-9,"Sales, government funding, grants and subsidies",2934,DOLLARS(millions)
+2011,E,Construction,c_6-9,Total income,2948,DOLLARS(millions)
+2011,E,Construction,c_6-9,Total expenditure,2855,DOLLARS(millions)
+2011,E,Construction,c_6-9,Operating profit before tax,119,DOLLARS(millions)
+2011,E,Construction,c_6-9,Total assets,1395,DOLLARS(millions)
+2011,E,Construction,c_6-9,Fixed tangible assets,360,DOLLARS(millions)
+2011,E,Construction,d_10-19,Activity unit,1245,COUNT
+2011,E,Construction,d_10-19,Rolling mean employees,16173,COUNT
+2011,E,Construction,d_10-19,Salaries and wages paid,832,DOLLARS(millions)
+2011,E,Construction,d_10-19,"Sales, government funding, grants and subsidies",3309,DOLLARS(millions)
+2011,E,Construction,d_10-19,Total income,3329,DOLLARS(millions)
+2011,E,Construction,d_10-19,Total expenditure,3219,DOLLARS(millions)
+2011,E,Construction,d_10-19,Operating profit before tax,140,DOLLARS(millions)
+2011,E,Construction,d_10-19,Total assets,1601,DOLLARS(millions)
+2011,E,Construction,d_10-19,Fixed tangible assets,293,DOLLARS(millions)
+2011,E,Construction,e_20-49,Activity unit,522,COUNT
+2011,E,Construction,e_20-49,Rolling mean employees,15843,COUNT
+2011,E,Construction,e_20-49,Salaries and wages paid,806,DOLLARS(millions)
+2011,E,Construction,e_20-49,"Sales, government funding, grants and subsidies",3530,DOLLARS(millions)
+2011,E,Construction,e_20-49,Total income,3550,DOLLARS(millions)
+2011,E,Construction,e_20-49,Total expenditure,3473,DOLLARS(millions)
+2011,E,Construction,e_20-49,Operating profit before tax,137,DOLLARS(millions)
+2011,E,Construction,e_20-49,Total assets,1658,DOLLARS(millions)
+2011,E,Construction,e_20-49,Fixed tangible assets,445,DOLLARS(millions)
+2011,E,Construction,f_50-99,Activity unit,132,COUNT
+2011,E,Construction,f_50-99,Rolling mean employees,8811,COUNT
+2011,E,Construction,f_50-99,Salaries and wages paid,510,DOLLARS(millions)
+2011,E,Construction,f_50-99,"Sales, government funding, grants and subsidies",2483,DOLLARS(millions)
+2011,E,Construction,f_50-99,Total income,2498,DOLLARS(millions)
+2011,E,Construction,f_50-99,Total expenditure,2429,DOLLARS(millions)
+2011,E,Construction,f_50-99,Operating profit before tax,115,DOLLARS(millions)
+2011,E,Construction,f_50-99,Total assets,1381,DOLLARS(millions)
+2011,E,Construction,f_50-99,Fixed tangible assets,293,DOLLARS(millions)
+2011,E,Construction,g_100-199,Activity unit,45,COUNT
+2011,E,Construction,g_100-199,Rolling mean employees,5658,COUNT
+2011,E,Construction,g_100-199,Salaries and wages paid,367,DOLLARS(millions)
+2011,E,Construction,g_100-199,"Sales, government funding, grants and subsidies",1864,DOLLARS(millions)
+2011,E,Construction,g_100-199,Total income,1872,DOLLARS(millions)
+2011,E,Construction,g_100-199,Total expenditure,1750,DOLLARS(millions)
+2011,E,Construction,g_100-199,Operating profit before tax,125,DOLLARS(millions)
+2011,E,Construction,g_100-199,Total assets,1268,DOLLARS(millions)
+2011,E,Construction,g_100-199,Fixed tangible assets,462,DOLLARS(millions)
+2011,E,Construction,h_200+,Activity unit,39,COUNT
+2011,E,Construction,h_200+,Rolling mean employees,22215,COUNT
+2011,E,Construction,h_200+,Salaries and wages paid,1522,DOLLARS(millions)
+2011,E,Construction,h_200+,"Sales, government funding, grants and subsidies",6457,DOLLARS(millions)
+2011,E,Construction,h_200+,Total income,6579,DOLLARS(millions)
+2011,E,Construction,h_200+,Total expenditure,6294,DOLLARS(millions)
+2011,E,Construction,h_200+,Operating profit before tax,330,DOLLARS(millions)
+2011,E,Construction,h_200+,Total assets,3755,DOLLARS(millions)
+2011,E,Construction,h_200+,Fixed tangible assets,624,DOLLARS(millions)
+2011,E,Construction,i_Industry_Total,Activity unit,49938,COUNT
+2011,E,Construction,i_Industry_Total,Rolling mean employees,114027,COUNT
+2011,E,Construction,i_Industry_Total,Salaries and wages paid,6947,DOLLARS(millions)
+2011,E,Construction,i_Industry_Total,"Sales, government funding, grants and subsidies",32224,DOLLARS(millions)
+2011,E,Construction,i_Industry_Total,Total income,32500,DOLLARS(millions)
+2011,E,Construction,i_Industry_Total,Total expenditure,30737,DOLLARS(millions)
+2011,E,Construction,i_Industry_Total,Operating profit before tax,1849,DOLLARS(millions)
+2011,E,Construction,i_Industry_Total,Total assets,20602,DOLLARS(millions)
+2011,E,Construction,i_Industry_Total,Fixed tangible assets,5278,DOLLARS(millions)
+2011,F,Wholesale Trade,a_0,Activity unit,7896,COUNT
+2011,F,Wholesale Trade,a_0,Rolling mean employees,0,COUNT
+2011,F,Wholesale Trade,a_0,Salaries and wages paid,247,DOLLARS(millions)
+2011,F,Wholesale Trade,a_0,"Sales, government funding, grants and subsidies",6687,DOLLARS(millions)
+2011,F,Wholesale Trade,a_0,Total income,6809,DOLLARS(millions)
+2011,F,Wholesale Trade,a_0,Total expenditure,6564,DOLLARS(millions)
+2011,F,Wholesale Trade,a_0,Operating profit before tax,184,DOLLARS(millions)
+2011,F,Wholesale Trade,a_0,Total assets,3348,DOLLARS(millions)
+2011,F,Wholesale Trade,a_0,Fixed tangible assets,609,DOLLARS(millions)
+2011,F,Wholesale Trade,b_1-5,Activity unit,6009,COUNT
+2011,F,Wholesale Trade,b_1-5,Rolling mean employees,13263,COUNT
+2011,F,Wholesale Trade,b_1-5,Salaries and wages paid,725,DOLLARS(millions)
+2011,F,Wholesale Trade,b_1-5,"Sales, government funding, grants and subsidies",8561,DOLLARS(millions)
+2011,F,Wholesale Trade,b_1-5,Total income,8617,DOLLARS(millions)
+2011,F,Wholesale Trade,b_1-5,Total expenditure,8219,DOLLARS(millions)
+2011,F,Wholesale Trade,b_1-5,Operating profit before tax,479,DOLLARS(millions)
+2011,F,Wholesale Trade,b_1-5,Total assets,4192,DOLLARS(millions)
+2011,F,Wholesale Trade,b_1-5,Fixed tangible assets,513,DOLLARS(millions)
+2011,F,Wholesale Trade,c_6-9,Activity unit,1107,COUNT
+2011,F,Wholesale Trade,c_6-9,Rolling mean employees,7977,COUNT
+2011,F,Wholesale Trade,c_6-9,Salaries and wages paid,399,DOLLARS(millions)
+2011,F,Wholesale Trade,c_6-9,"Sales, government funding, grants and subsidies",4162,DOLLARS(millions)
+2011,F,Wholesale Trade,c_6-9,Total income,4195,DOLLARS(millions)
+2011,F,Wholesale Trade,c_6-9,Total expenditure,4000,DOLLARS(millions)
+2011,F,Wholesale Trade,c_6-9,Operating profit before tax,259,DOLLARS(millions)
+2011,F,Wholesale Trade,c_6-9,Total assets,1983,DOLLARS(millions)
+2011,F,Wholesale Trade,c_6-9,Fixed tangible assets,226,DOLLARS(millions)
+2011,F,Wholesale Trade,d_10-19,Activity unit,978,COUNT
+2011,F,Wholesale Trade,d_10-19,Rolling mean employees,13197,COUNT
+2011,F,Wholesale Trade,d_10-19,Salaries and wages paid,702,DOLLARS(millions)
+2011,F,Wholesale Trade,d_10-19,"Sales, government funding, grants and subsidies",7999,DOLLARS(millions)
+2011,F,Wholesale Trade,d_10-19,Total income,8044,DOLLARS(millions)
+2011,F,Wholesale Trade,d_10-19,Total expenditure,7951,DOLLARS(millions)
+2011,F,Wholesale Trade,d_10-19,Operating profit before tax,391,DOLLARS(millions)
+2011,F,Wholesale Trade,d_10-19,Total assets,3524,DOLLARS(millions)
+2011,F,Wholesale Trade,d_10-19,Fixed tangible assets,286,DOLLARS(millions)
+2011,F,Wholesale Trade,e_20-49,Activity unit,561,COUNT
+2011,F,Wholesale Trade,e_20-49,Rolling mean employees,16770,COUNT
+2011,F,Wholesale Trade,e_20-49,Salaries and wages paid,986,DOLLARS(millions)
+2011,F,Wholesale Trade,e_20-49,"Sales, government funding, grants and subsidies",10457,DOLLARS(millions)
+2011,F,Wholesale Trade,e_20-49,Total income,10539,DOLLARS(millions)
+2011,F,Wholesale Trade,e_20-49,Total expenditure,10140,DOLLARS(millions)
+2011,F,Wholesale Trade,e_20-49,Operating profit before tax,536,DOLLARS(millions)
+2011,F,Wholesale Trade,e_20-49,Total assets,5584,DOLLARS(millions)
+2011,F,Wholesale Trade,e_20-49,Fixed tangible assets,551,DOLLARS(millions)
+2011,F,Wholesale Trade,f_50-99,Activity unit,195,COUNT
+2011,F,Wholesale Trade,f_50-99,Rolling mean employees,12966,COUNT
+2011,F,Wholesale Trade,f_50-99,Salaries and wages paid,769,DOLLARS(millions)
+2011,F,Wholesale Trade,f_50-99,"Sales, government funding, grants and subsidies",8637,DOLLARS(millions)
+2011,F,Wholesale Trade,f_50-99,Total income,8759,DOLLARS(millions)
+2011,F,Wholesale Trade,f_50-99,Total expenditure,8540,DOLLARS(millions)
+2011,F,Wholesale Trade,f_50-99,Operating profit before tax,398,DOLLARS(millions)
+2011,F,Wholesale Trade,f_50-99,Total assets,4980,DOLLARS(millions)
+2011,F,Wholesale Trade,f_50-99,Fixed tangible assets,428,DOLLARS(millions)
+2011,F,Wholesale Trade,g_100-199,Activity unit,60,COUNT
+2011,F,Wholesale Trade,g_100-199,Rolling mean employees,8424,COUNT
+2011,F,Wholesale Trade,g_100-199,Salaries and wages paid,532,DOLLARS(millions)
+2011,F,Wholesale Trade,g_100-199,"Sales, government funding, grants and subsidies",6995,DOLLARS(millions)
+2011,F,Wholesale Trade,g_100-199,Total income,7085,DOLLARS(millions)
+2011,F,Wholesale Trade,g_100-199,Total expenditure,6670,DOLLARS(millions)
+2011,F,Wholesale Trade,g_100-199,Operating profit before tax,509,DOLLARS(millions)
+2011,F,Wholesale Trade,g_100-199,Total assets,3566,DOLLARS(millions)
+2011,F,Wholesale Trade,g_100-199,Fixed tangible assets,329,DOLLARS(millions)
+2011,F,Wholesale Trade,h_200+,Activity unit,57,COUNT
+2011,F,Wholesale Trade,h_200+,Rolling mean employees,24741,COUNT
+2011,F,Wholesale Trade,h_200+,Salaries and wages paid,1335,DOLLARS(millions)
+2011,F,Wholesale Trade,h_200+,"Sales, government funding, grants and subsidies",23864,DOLLARS(millions)
+2011,F,Wholesale Trade,h_200+,Total income,23991,DOLLARS(millions)
+2011,F,Wholesale Trade,h_200+,Total expenditure,23752,DOLLARS(millions)
+2011,F,Wholesale Trade,h_200+,Operating profit before tax,409,DOLLARS(millions)
+2011,F,Wholesale Trade,h_200+,Total assets,8344,DOLLARS(millions)
+2011,F,Wholesale Trade,h_200+,Fixed tangible assets,1116,DOLLARS(millions)
+2011,F,Wholesale Trade,i_Industry_Total,Activity unit,16869,COUNT
+2011,F,Wholesale Trade,i_Industry_Total,Rolling mean employees,97341,COUNT
+2011,F,Wholesale Trade,i_Industry_Total,Salaries and wages paid,5695,DOLLARS(millions)
+2011,F,Wholesale Trade,i_Industry_Total,"Sales, government funding, grants and subsidies",77361,DOLLARS(millions)
+2011,F,Wholesale Trade,i_Industry_Total,Total income,78040,DOLLARS(millions)
+2011,F,Wholesale Trade,i_Industry_Total,Total expenditure,75835,DOLLARS(millions)
+2011,F,Wholesale Trade,i_Industry_Total,Operating profit before tax,3164,DOLLARS(millions)
+2011,F,Wholesale Trade,i_Industry_Total,Total assets,35521,DOLLARS(millions)
+2011,F,Wholesale Trade,i_Industry_Total,Fixed tangible assets,4058,DOLLARS(millions)
+2011,G,Retail Trade,a_0,Activity unit,10881,COUNT
+2011,G,Retail Trade,a_0,Rolling mean employees,0,COUNT
+2011,G,Retail Trade,a_0,Salaries and wages paid,183,DOLLARS(millions)
+2011,G,Retail Trade,a_0,"Sales, government funding, grants and subsidies",2876,DOLLARS(millions)
+2011,G,Retail Trade,a_0,Total income,2894,DOLLARS(millions)
+2011,G,Retail Trade,a_0,Total expenditure,2813,DOLLARS(millions)
+2011,G,Retail Trade,a_0,Operating profit before tax,93,DOLLARS(millions)
+2011,G,Retail Trade,a_0,Total assets,1773,DOLLARS(millions)
+2011,G,Retail Trade,a_0,Fixed tangible assets,583,DOLLARS(millions)
+2011,G,Retail Trade,b_1-5,Activity unit,10479,COUNT
+2011,G,Retail Trade,b_1-5,Rolling mean employees,23283,COUNT
+2011,G,Retail Trade,b_1-5,Salaries and wages paid,698,DOLLARS(millions)
+2011,G,Retail Trade,b_1-5,"Sales, government funding, grants and subsidies",6588,DOLLARS(millions)
+2011,G,Retail Trade,b_1-5,Total income,6612,DOLLARS(millions)
+2011,G,Retail Trade,b_1-5,Total expenditure,6387,DOLLARS(millions)
+2011,G,Retail Trade,b_1-5,Operating profit before tax,236,DOLLARS(millions)
+2011,G,Retail Trade,b_1-5,Total assets,2829,DOLLARS(millions)
+2011,G,Retail Trade,b_1-5,Fixed tangible assets,587,DOLLARS(millions)
+2011,G,Retail Trade,c_6-9,Activity unit,2109,COUNT
+2011,G,Retail Trade,c_6-9,Rolling mean employees,14955,COUNT
+2011,G,Retail Trade,c_6-9,Salaries and wages paid,470,DOLLARS(millions)
+2011,G,Retail Trade,c_6-9,"Sales, government funding, grants and subsidies",3422,DOLLARS(millions)
+2011,G,Retail Trade,c_6-9,Total income,3436,DOLLARS(millions)
+2011,G,Retail Trade,c_6-9,Total expenditure,3336,DOLLARS(millions)
+2011,G,Retail Trade,c_6-9,Operating profit before tax,97,DOLLARS(millions)
+2011,G,Retail Trade,c_6-9,Total assets,1287,DOLLARS(millions)
+2011,G,Retail Trade,c_6-9,Fixed tangible assets,205,DOLLARS(millions)
+2011,G,Retail Trade,d_10-19,Activity unit,1551,COUNT
+2011,G,Retail Trade,d_10-19,Rolling mean employees,20532,COUNT
+2011,G,Retail Trade,d_10-19,Salaries and wages paid,654,DOLLARS(millions)
+2011,G,Retail Trade,d_10-19,"Sales, government funding, grants and subsidies",5579,DOLLARS(millions)
+2011,G,Retail Trade,d_10-19,Total income,5605,DOLLARS(millions)
+2011,G,Retail Trade,d_10-19,Total expenditure,5536,DOLLARS(millions)
+2011,G,Retail Trade,d_10-19,Operating profit before tax,57,DOLLARS(millions)
+2011,G,Retail Trade,d_10-19,Total assets,1711,DOLLARS(millions)
+2011,G,Retail Trade,d_10-19,Fixed tangible assets,250,DOLLARS(millions)
+2011,G,Retail Trade,e_20-49,Activity unit,513,COUNT
+2011,G,Retail Trade,e_20-49,Rolling mean employees,14346,COUNT
+2011,G,Retail Trade,e_20-49,Salaries and wages paid,515,DOLLARS(millions)
+2011,G,Retail Trade,e_20-49,"Sales, government funding, grants and subsidies",4275,DOLLARS(millions)
+2011,G,Retail Trade,e_20-49,Total income,4294,DOLLARS(millions)
+2011,G,Retail Trade,e_20-49,Total expenditure,4256,DOLLARS(millions)
+2011,G,Retail Trade,e_20-49,Operating profit before tax,73,DOLLARS(millions)
+2011,G,Retail Trade,e_20-49,Total assets,1317,DOLLARS(millions)
+2011,G,Retail Trade,e_20-49,Fixed tangible assets,282,DOLLARS(millions)
+2011,G,Retail Trade,f_50-99,Activity unit,204,COUNT
+2011,G,Retail Trade,f_50-99,Rolling mean employees,14229,COUNT
+2011,G,Retail Trade,f_50-99,Salaries and wages paid,460,DOLLARS(millions)
+2011,G,Retail Trade,f_50-99,"Sales, government funding, grants and subsidies",4673,DOLLARS(millions)
+2011,G,Retail Trade,f_50-99,Total income,4700,DOLLARS(millions)
+2011,G,Retail Trade,f_50-99,Total expenditure,4626,DOLLARS(millions)
+2011,G,Retail Trade,f_50-99,Operating profit before tax,76,DOLLARS(millions)
+2011,G,Retail Trade,f_50-99,Total assets,1212,DOLLARS(millions)
+2011,G,Retail Trade,f_50-99,Fixed tangible assets,196,DOLLARS(millions)
+2011,G,Retail Trade,g_100-199,Activity unit,162,COUNT
+2011,G,Retail Trade,g_100-199,Rolling mean employees,22755,COUNT
+2011,G,Retail Trade,g_100-199,Salaries and wages paid,627,DOLLARS(millions)
+2011,G,Retail Trade,g_100-199,"Sales, government funding, grants and subsidies",6083,DOLLARS(millions)
+2011,G,Retail Trade,g_100-199,Total income,6120,DOLLARS(millions)
+2011,G,Retail Trade,g_100-199,Total expenditure,5999,DOLLARS(millions)
+2011,G,Retail Trade,g_100-199,Operating profit before tax,142,DOLLARS(millions)
+2011,G,Retail Trade,g_100-199,Total assets,1812,DOLLARS(millions)
+2011,G,Retail Trade,g_100-199,Fixed tangible assets,387,DOLLARS(millions)
+2011,G,Retail Trade,h_200+,Activity unit,126,COUNT
+2011,G,Retail Trade,h_200+,Rolling mean employees,80130,COUNT
+2011,G,Retail Trade,h_200+,Salaries and wages paid,2323,DOLLARS(millions)
+2011,G,Retail Trade,h_200+,"Sales, government funding, grants and subsidies",20727,DOLLARS(millions)
+2011,G,Retail Trade,h_200+,Total income,20966,DOLLARS(millions)
+2011,G,Retail Trade,h_200+,Total expenditure,20156,DOLLARS(millions)
+2011,G,Retail Trade,h_200+,Operating profit before tax,869,DOLLARS(millions)
+2011,G,Retail Trade,h_200+,Total assets,9129,DOLLARS(millions)
+2011,G,Retail Trade,h_200+,Fixed tangible assets,2361,DOLLARS(millions)
+2011,G,Retail Trade,i_Industry_Total,Activity unit,26025,COUNT
+2011,G,Retail Trade,i_Industry_Total,Rolling mean employees,190230,COUNT
+2011,G,Retail Trade,i_Industry_Total,Salaries and wages paid,5930,DOLLARS(millions)
+2011,G,Retail Trade,i_Industry_Total,"Sales, government funding, grants and subsidies",54221,DOLLARS(millions)
+2011,G,Retail Trade,i_Industry_Total,Total income,54627,DOLLARS(millions)
+2011,G,Retail Trade,i_Industry_Total,Total expenditure,53109,DOLLARS(millions)
+2011,G,Retail Trade,i_Industry_Total,Operating profit before tax,1644,DOLLARS(millions)
+2011,G,Retail Trade,i_Industry_Total,Total assets,21069,DOLLARS(millions)
+2011,G,Retail Trade,i_Industry_Total,Fixed tangible assets,4853,DOLLARS(millions)
+2011,H,Accommodation and Food Services,a_0,Activity unit,5343,COUNT
+2011,H,Accommodation and Food Services,a_0,Rolling mean employees,0,COUNT
+2011,H,Accommodation and Food Services,a_0,Salaries and wages paid,131,DOLLARS(millions)
+2011,H,Accommodation and Food Services,a_0,"Sales, government funding, grants and subsidies",793,DOLLARS(millions)
+2011,H,Accommodation and Food Services,a_0,Total income,807,DOLLARS(millions)
+2011,H,Accommodation and Food Services,a_0,Total expenditure,774,DOLLARS(millions)
+2011,H,Accommodation and Food Services,a_0,Operating profit before tax,38,DOLLARS(millions)
+2011,H,Accommodation and Food Services,a_0,Total assets,2346,DOLLARS(millions)
+2011,H,Accommodation and Food Services,a_0,Fixed tangible assets,1585,DOLLARS(millions)
+2011,H,Accommodation and Food Services,b_1-5,Activity unit,7428,COUNT
+2011,H,Accommodation and Food Services,b_1-5,Rolling mean employees,17304,COUNT
+2011,H,Accommodation and Food Services,b_1-5,Salaries and wages paid,324,DOLLARS(millions)
+2011,H,Accommodation and Food Services,b_1-5,"Sales, government funding, grants and subsidies",1692,DOLLARS(millions)
+2011,H,Accommodation and Food Services,b_1-5,Total income,1708,DOLLARS(millions)
+2011,H,Accommodation and Food Services,b_1-5,Total expenditure,1636,DOLLARS(millions)
+2011,H,Accommodation and Food Services,b_1-5,Operating profit before tax,76,DOLLARS(millions)
+2011,H,Accommodation and Food Services,b_1-5,Total assets,1886,DOLLARS(millions)
+2011,H,Accommodation and Food Services,b_1-5,Fixed tangible assets,1085,DOLLARS(millions)
+2011,H,Accommodation and Food Services,c_6-9,Activity unit,2064,COUNT
+2011,H,Accommodation and Food Services,c_6-9,Rolling mean employees,14796,COUNT
+2011,H,Accommodation and Food Services,c_6-9,Salaries and wages paid,299,DOLLARS(millions)
+2011,H,Accommodation and Food Services,c_6-9,"Sales, government funding, grants and subsidies",1071,DOLLARS(millions)
+2011,H,Accommodation and Food Services,c_6-9,Total income,1081,DOLLARS(millions)
+2011,H,Accommodation and Food Services,c_6-9,Total expenditure,1039,DOLLARS(millions)
+2011,H,Accommodation and Food Services,c_6-9,Operating profit before tax,44,DOLLARS(millions)
+2011,H,Accommodation and Food Services,c_6-9,Total assets,787,DOLLARS(millions)
+2011,H,Accommodation and Food Services,c_6-9,Fixed tangible assets,407,DOLLARS(millions)
+2011,H,Accommodation and Food Services,d_10-19,Activity unit,2037,COUNT
+2011,H,Accommodation and Food Services,d_10-19,Rolling mean employees,26805,COUNT
+2011,H,Accommodation and Food Services,d_10-19,Salaries and wages paid,556,DOLLARS(millions)
+2011,H,Accommodation and Food Services,d_10-19,"Sales, government funding, grants and subsidies",1674,DOLLARS(millions)
+2011,H,Accommodation and Food Services,d_10-19,Total income,1688,DOLLARS(millions)
+2011,H,Accommodation and Food Services,d_10-19,Total expenditure,1731,DOLLARS(millions)
+2011,H,Accommodation and Food Services,d_10-19,Operating profit before tax,-31,DOLLARS(millions)
+2011,H,Accommodation and Food Services,d_10-19,Total assets,1350,DOLLARS(millions)
+2011,H,Accommodation and Food Services,d_10-19,Fixed tangible assets,875,DOLLARS(millions)
+2011,H,Accommodation and Food Services,e_20-49,Activity unit,882,COUNT
+2011,H,Accommodation and Food Services,e_20-49,Rolling mean employees,23838,COUNT
+2011,H,Accommodation and Food Services,e_20-49,Salaries and wages paid,493,DOLLARS(millions)
+2011,H,Accommodation and Food Services,e_20-49,"Sales, government funding, grants and subsidies",1555,DOLLARS(millions)
+2011,H,Accommodation and Food Services,e_20-49,Total income,1585,DOLLARS(millions)
+2011,H,Accommodation and Food Services,e_20-49,Total expenditure,1543,DOLLARS(millions)
+2011,H,Accommodation and Food Services,e_20-49,Operating profit before tax,56,DOLLARS(millions)
+2011,H,Accommodation and Food Services,e_20-49,Total assets,1509,DOLLARS(millions)
+2011,H,Accommodation and Food Services,e_20-49,Fixed tangible assets,945,DOLLARS(millions)
+2011,H,Accommodation and Food Services,f_50-99,Activity unit,132,COUNT
+2011,H,Accommodation and Food Services,f_50-99,Rolling mean employees,9066,COUNT
+2011,H,Accommodation and Food Services,f_50-99,Salaries and wages paid,210,DOLLARS(millions)
+2011,H,Accommodation and Food Services,f_50-99,"Sales, government funding, grants and subsidies",664,DOLLARS(millions)
+2011,H,Accommodation and Food Services,f_50-99,Total income,678,DOLLARS(millions)
+2011,H,Accommodation and Food Services,f_50-99,Total expenditure,654,DOLLARS(millions)
+2011,H,Accommodation and Food Services,f_50-99,Operating profit before tax,28,DOLLARS(millions)
+2011,H,Accommodation and Food Services,f_50-99,Total assets,968,DOLLARS(millions)
+2011,H,Accommodation and Food Services,f_50-99,Fixed tangible assets,622,DOLLARS(millions)
+2011,H,Accommodation and Food Services,g_100-199,Activity unit,63,COUNT
+2011,H,Accommodation and Food Services,g_100-199,Rolling mean employees,8769,COUNT
+2011,H,Accommodation and Food Services,g_100-199,Salaries and wages paid,202,DOLLARS(millions)
+2011,H,Accommodation and Food Services,g_100-199,"Sales, government funding, grants and subsidies",698,DOLLARS(millions)
+2011,H,Accommodation and Food Services,g_100-199,Total income,711,DOLLARS(millions)
+2011,H,Accommodation and Food Services,g_100-199,Total expenditure,678,DOLLARS(millions)
+2011,H,Accommodation and Food Services,g_100-199,Operating profit before tax,42,DOLLARS(millions)
+2011,H,Accommodation and Food Services,g_100-199,Total assets,1072,DOLLARS(millions)
+2011,H,Accommodation and Food Services,g_100-199,Fixed tangible assets,746,DOLLARS(millions)
+2011,H,Accommodation and Food Services,h_200+,Activity unit,24,COUNT
+2011,H,Accommodation and Food Services,h_200+,Rolling mean employees,17547,COUNT
+2011,H,Accommodation and Food Services,h_200+,Salaries and wages paid,399,DOLLARS(millions)
+2011,H,Accommodation and Food Services,h_200+,"Sales, government funding, grants and subsidies",1396,DOLLARS(millions)
+2011,H,Accommodation and Food Services,h_200+,Total income,1403,DOLLARS(millions)
+2011,H,Accommodation and Food Services,h_200+,Total expenditure,1302,DOLLARS(millions)
+2011,H,Accommodation and Food Services,h_200+,Operating profit before tax,113,DOLLARS(millions)
+2011,H,Accommodation and Food Services,h_200+,Total assets,1139,DOLLARS(millions)
+2011,H,Accommodation and Food Services,h_200+,Fixed tangible assets,714,DOLLARS(millions)
+2011,H,Accommodation and Food Services,i_Industry_Total,Activity unit,17970,COUNT
+2011,H,Accommodation and Food Services,i_Industry_Total,Rolling mean employees,118122,COUNT
+2011,H,Accommodation and Food Services,i_Industry_Total,Salaries and wages paid,2615,DOLLARS(millions)
+2011,H,Accommodation and Food Services,i_Industry_Total,"Sales, government funding, grants and subsidies",9544,DOLLARS(millions)
+2011,H,Accommodation and Food Services,i_Industry_Total,Total income,9660,DOLLARS(millions)
+2011,H,Accommodation and Food Services,i_Industry_Total,Total expenditure,9357,DOLLARS(millions)
+2011,H,Accommodation and Food Services,i_Industry_Total,Operating profit before tax,366,DOLLARS(millions)
+2011,H,Accommodation and Food Services,i_Industry_Total,Total assets,11055,DOLLARS(millions)
+2011,H,Accommodation and Food Services,i_Industry_Total,Fixed tangible assets,6978,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",a_0,Activity unit,9171,COUNT
+2011,I,"Transport, Postal and Warehousing",a_0,Rolling mean employees,0,COUNT
+2011,I,"Transport, Postal and Warehousing",a_0,Salaries and wages paid,127,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",a_0,"Sales, government funding, grants and subsidies",1080,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",a_0,Total income,1170,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",a_0,Total expenditure,943,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",a_0,Operating profit before tax,171,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",a_0,Total assets,1907,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",a_0,Fixed tangible assets,1015,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",b_1-5,Activity unit,3840,COUNT
+2011,I,"Transport, Postal and Warehousing",b_1-5,Rolling mean employees,7605,COUNT
+2011,I,"Transport, Postal and Warehousing",b_1-5,Salaries and wages paid,336,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",b_1-5,"Sales, government funding, grants and subsidies",1435,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",b_1-5,Total income,1457,DOLLARS(millions)
+2011,I,"Transport, Postal and Warehousing",b_1-5,Total expenditure,1309,DOLLARS(millions)
