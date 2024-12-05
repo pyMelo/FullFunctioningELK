@@ -1,4 +1,6 @@
 # Fully functioning ELK pipeline
+Fully functioning updated ELK Pipeline reading a csv file.
+- Version used 8.12.1
 ## How it works 
 Clone the repository
 ```bash
